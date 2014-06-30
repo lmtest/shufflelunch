@@ -7,3 +7,4 @@ Randomly matching persons who want to have lunch.
 ============
 
 * (確立等要検討)当選したグループのランチ代支給or一部補助
+* オススメランチマップ
